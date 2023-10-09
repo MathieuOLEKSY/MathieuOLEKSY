@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MathieuOLEKSY
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning programming and embedded systems
+- 📫 Can reach me on: oleksy.mathieu@gmail.com
